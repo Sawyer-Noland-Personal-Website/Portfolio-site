@@ -1,0 +1,52 @@
+*{
+  color: #f0f6fc;
+}
+.Name {
+  padding-left: 10px;
+}
+body {
+  background-color: #30363d;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #23272e;
+  padding-right: 10px;
+}
+.Portfolio-Button {
+  text-decoration: none;
+  font-size: 1.2em;
+  transition: 1.3s;
+}
+.About-Button {
+  text-decoration: none;
+  font-size: 1.2em;
+  transition: 1.3s;
+}
+.Index-Button {
+  text-decoration: none;
+  font-size: 1.2em;
+  transition: 1.3s;
+}
+.BA {
+  text-align: center;
+}
+.mash {
+  width: 200px;
+}
+.car {
+  height: 355.5px;
+}
+.Portfolio-Button:hover {
+  color: #97999b;
+  padding: 10px;
+}
+.About-Button:hover {
+  color: #97999b;
+  padding: 10px;
+}
+.Index-Button:hover {
+  color: #97999b;
+  padding: 10px;
+}
