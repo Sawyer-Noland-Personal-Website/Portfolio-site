@@ -3,6 +3,7 @@
 }
 .Name {
   padding-left: 10px;
+  font-size: 36px;
 }
 body {
   background-color: #30363d;
@@ -31,6 +32,9 @@ body {
 }
 .BA {
   text-align: center;
+  padding-bottom: 25px;
+  border: #30363d solid;
+  font-size: 29px;
 }
 .mash {
   width: 200px;
@@ -49,4 +53,7 @@ body {
 .Index-Button:hover {
   color: #97999b;
   padding: 10px;
+}
+.flex-first {
+  display: flex;
 }
