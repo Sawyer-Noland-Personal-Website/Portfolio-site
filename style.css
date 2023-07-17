@@ -57,3 +57,20 @@ body {
 .flex-first {
   display: flex;
 }
+.holy-grail {
+  text-align: center;
+}
+.footer {
+  padding-top: 620px;
+  display: flex;
+}
+.side-bar {
+  display: flex;
+}
+.side-bar2 {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.MC {
+  font-size: 20px;
+}
