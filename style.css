@@ -74,3 +74,30 @@ body {
 .MC {
   font-size: 20px;
 }
+.submit-button {
+  color: black;
+  border: 1px black solid;
+  width: 7vw;
+  padding: 1.5px;
+}
+.submit-button:hover {
+  cursor: pointer;
+}
+.name-box, .lname-box, .email-box{
+  border: 1px black solid;
+  color: black;
+}
+.fname-text, .lname-text, .email-text {
+  font-size: 17px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+  padding: 4px;
+}
+.ty-msg {
+  font-size: 20px;
+  padding-bottom: 25px;
+  border: #30363d solid;
+}
